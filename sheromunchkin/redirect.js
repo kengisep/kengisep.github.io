@@ -1,19 +1,15 @@
-<script type="text/javascript">
 var userPlatform = navigator.platform;
+alert(userPlatform);
 switch(userPlatform) {
   case 'Android':
-    //location="http://my-website.com/android.apk";
-	alert(andr);
-    [break]
+	alert("andr");
+    break;
 
   case 'iPhone':
-    //location="http://my-website.com/iphone.dmg";
-	alert(iph)
-    [break]
+	alert("iph")
+    break;
 
   default:
-    //location="http://my-website.com/download.php";
 	alert(userPlatform);
-    [break]
+    break;
 }
-</script>
