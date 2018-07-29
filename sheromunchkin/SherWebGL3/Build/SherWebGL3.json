@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SherWebGL3.data.unityweb",
+"asmCodeUrl": "SherWebGL3.asm.code.unityweb",
+"asmMemoryUrl": "SherWebGL3.asm.memory.unityweb",
+"asmFrameworkUrl": "SherWebGL3.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
